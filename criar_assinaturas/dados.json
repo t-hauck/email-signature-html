@@ -1,0 +1,133 @@
+{
+    "common_info": {
+        "website": "empresa.com.br",
+        "address": "BR 280 km 00, Cidade - UF, 00000-000",
+        "map_link": "https://maps.app.goo.gl/00000000000000000",
+        "phone": "47 0000-0",
+        "phone_link": "tel:+55470000",
+        "whatsapp": "https://wa.me/+55470000",
+        "instagram": "https://www.instagram.com/empresa"
+    },
+    "employees": [
+        {
+            "name": "José Silva",
+            "title": "Especialista em Estruturas para Cabeamento",
+            "ramal": "101",
+            "photo_path": "fotos/JOSÉ SILVA_ramal101_ESPECIALISTA_EM_ESTRUTURAS_PARA_CABEAMENTO.png"
+        },
+        {
+            "name": "Maria Santos",
+            "title": "Fiscal",
+            "ramal": "102",
+            "photo_path": "fotos/MARIA SANTOS_ramal102_FISCAL.png"
+        },
+        {
+            "name": "Carlos Oliveira",
+            "title": "Analista de Compras",
+            "ramal": "103",
+            "photo_path": "fotos/CARLOS OLIVEIRA_ramal103_ANALISTA_DE_COMPRAS.png"
+        },
+        {
+            "name": "Ana Pereira",
+            "title": "Gerente de Recursos Humanos",
+            "ramal": "104",
+            "photo_path": "fotos/ANA PEREIRA_ramal104_GERENTE_DE_RECURSOS_HUMANOS.png"
+        },
+        {
+            "name": "Fernanda Almeida",
+            "title": "Especialista em Estruturas para Cabeamento",
+            "ramal": "105",
+            "photo_path": "fotos/FERNANDA ALMEIDA_ramal105_ESPECIALISTA_EM_ESTRUTURAS_PARA_CABEAMENTO.png"
+        },
+        {
+            "name": "Ricardo Sousa",
+            "title": "Técnico de Segurança do Trabalho",
+            "ramal": "106",
+            "photo_path": "fotos/RICARDO SOUSA_ramal106_TECNICO_DE_SEGURANCA_DO_TRABALHO.png"
+        },
+        {
+            "name": "Juliana Lima",
+            "title": "Analista de Logística",
+            "ramal": "107",
+            "photo_path": "fotos/JULIANA LIMA_ramal107_ANALISTA_DE_LOGISTICA.png"
+        },
+        {
+            "name": "Marcos Costa",
+            "title": "Gerente Financeiro",
+            "ramal": "108",
+            "photo_path": "fotos/MARCOS COSTA_ramal108_GERENTE_FINANCEIRO.png"
+        },
+        {
+            "name": "Lúcia Fernandes",
+            "title": "Gerente Comercial",
+            "ramal": "109",
+            "photo_path": "fotos/LÚCIA FERNANDES_ramal109_GERENTE_COMERCIAL_MATRIZ.png"
+        },
+        {
+            "name": "Gustavo Santos",
+            "title": "Especialista em Estruturas para Cabeamento",
+            "ramal": "110",
+            "photo_path": "fotos/GUSTAVO SANTOS_ramal110_ESPECIALISTA_EM_ESTRUTURAS_PARA_CABEAMENTO.png"
+        },
+        {
+            "name": "Luana Castro",
+            "title": "Analista de Contas a Receber",
+            "ramal": "111",
+            "photo_path": "fotos/LUANA CASTRO_ramal111_ANALISTA_DE_CONTAS_A_RECEBER.png"
+        },
+        {
+            "name": "Rafaela Ferreira",
+            "title": "Gerente de Recursos Humanos",
+            "ramal": "112",
+            "photo_path": "fotos/RAFAELA FERREIRA_ramal112_GERENTE_DE_RECURSOS_HUMANOS.png"
+        },
+        {
+            "name": "Anderson Silva",
+            "title": "Gerente de TI",
+            "ramal": "113",
+            "photo_path": "fotos/ANDERSON SILVA_ramal113_GERENTE_DE_TI.png"
+        },
+        {
+            "name": "Paulo Rodrigues",
+            "title": "Especialista em Estruturas para Cabeamento",
+            "ramal": "114",
+            "photo_path": "fotos/PAULO RODRIGUES_ramal114_ESPECIALISTA_EM_ESTRUTURAS_PARA_CABEAMENTO.png"
+        },
+        {
+            "name": "Amanda Pereira",
+            "title": "Fiscal",
+            "ramal": "115",
+            "photo_path": "fotos/AMANDA PEREIRA_ramal115_FISCAL.png"
+        },
+        {
+            "name": "Camila Oliveira",
+            "title": "Especialista em Estruturas para Cabeamento",
+            "ramal": "116",
+            "photo_path": "fotos/CAMILA OLIVEIRA_ramal116_ESPECIALISTA_EM_ESTRUTURAS_PARA_CABEAMENTO.png"
+        },
+        {
+            "name": "Lucas Santos",
+            "title": "Especialista em Estruturas para Cabeamento",
+            "ramal": "117",
+            "photo_path": "fotos/LUCAS SANTOS_ramal117_ESPECIALISTA_EM_ESTRUTURAS_PARA_CABEAMENTO.png"
+        },
+        {
+            "name": "Larissa Almeida",
+            "title": "Especialista em Estruturas para Cabeamento",
+            "ramal": "118",
+            "photo_path": "fotos/LARISSA ALMEIDA_ramal118_ESPECIALISTA_EM_ESTRUTURAS_PARA_CABEAMENTO.png"
+        },
+        {
+            "name": "Daniel Oliveira",
+            "title": "Especialista em Estruturas para Cabeamento",
+            "ramal": "119",
+            "photo_path": "fotos/DANIEL OLIVEIRA_ramal119_ESPECIALISTA_EM_ESTRUTURAS_PARA_CABEAMENTO.png"
+        },
+        {
+            "name": "Isabela Lima",
+            "title": "Especialista em Estruturas para Cabeamento",
+            "ramal": "120",
+            "photo_path": "fotos/ISABELA LIMA_ramal120_ESPECIALISTA_EM_ESTRUTURAS_PARA_CABEAMENTO.png"
+        }
+    ]
+}

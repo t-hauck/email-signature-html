@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <base href="https://empresa.com.br/signature/">
+
+	
+      <style>
+        @font-face {
+          font-family: 'NexaLight';
+          font-style: normal;
+          font-weight: normal;
+          src: url('fonts/NexaLight.otf') format('opentype');
+        }
+
+        @font-face {
+          font-family: 'NexaBook';
+          font-style: normal;
+          font-weight: normal;
+          src: url('fonts/NexaBook.otf') format('opentype');
+        }
+        
+        html,
+        body,
+        table,
+        table td {
+            padding: 0;
+            margin: 0;
+            border: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+          overflow: auto;
+          min-height: 100%;
+          position: relative;
+          box-sizing: border-box;
+        }
+
+        body {
+          width: 100vw;
+          height: 100vh;
+          background-color: white;
+          /* background-color: linear-gradient(180deg, rgba(244, 244, 244, 1) 52%, rgba(255, 255, 255, 1) 100%); */
+        }
+
+        table {
+          /* border: 5px solid red; */
+          max-width: 420px !important;
+        }
+        
+        table td:first-child {
+        	text-align: center;
+        	padding-right: 20px;
+        }
+
+        a {
+          text-decoration: none !important;
+        }
+
+        a.has-text-black,
+        .subtitle,
+        .icon-text {
+          font-size: 0.75em; /* font-size: 0.875em; */
+        }
+
+        .icon-text .icon * {
+          vertical-align: middle !important;
+        }
+        
+        .foto_pessoa .icon img, /* tamanho dos icones */
+        .icon-text .icon img {
+          width: 1em;
+        }
+
+        .has-text-black { color: #0a0a0a !important; }
+
+        a.has-text-black:hover, a.has-text-black:focus {
+          color: black !important;
+        }
+
+        .title {
+          font-size: 2rem !important;
+          font-family: 'NexaLight', sans-serif;
+        }
+
+        .subtitle, .icon-text {
+          font-family: 'NexaBook', sans-serif;
+        }
+
+        .logo {
+          width: 200px;
+        }
+
+        .logo.linha_laranja {
+          width: 100%;
+        }
+        
+        .foto_pessoa img { /* tamanho da foto do funcionário e icones */
+          max-width: 120px !important;
+          width: 120px;
+        }
+
+        .foto_pessoa .icon { /* espaço entre foto do funcionário e icones abaixo dela */
+        	margin-top: 5px;
+        }
+        
+        .foto_pessoa .icon > a:not(:first-child) {
+          margin-left: 5px;
+        }
+
+        .icon {
+          width: 100%;
+          display: block;
+          justify-content: center;
+        }
+
+        .icon-text {
+          color: inherit;
+          align-items: center;
+          display: flex;
+          flex-wrap: wrap;
+          line-height: 1rem;
+        }
+
+        .icon-text .icon:not(:last-child) {
+          margin-right: 0.25em;
+        }
+
+        .icon-text .icon:not(:first-child) {
+          margin-left: 0.25em;
+        }
+
+        div.icon-text {
+          display: flex;
+        }
+      </style>
+    </head>
+  <body>
+      <table>
+        <tbody>
+              <tr>
+                <td>
+                  <div class="foto_pessoa">
+                    <img src="images/fotos/funcionario.png" alt="funcionario">
+
+                    <span class="icon">
+                        <a href="https://wa.me/+554700000000" target="_blank">
+                            <img src="images/icons/whatsapp.png"></img>
+                        </a>
+                        <a href="https://www.instagram.com/empresa/" target="_blank">
+                            <img src="images/icons/instagram.png"></img>
+                        </a>
+                    </span>
+                  </div>
+                </td>
+
+                <td>
+                    <span class="title has-text-black">Funcionario</span>
+                    <br>
+                    <span class="subtitle has-text-black">Cargo</span>
+                    <br>
+
+                    <img class="logo" src="images/empresa_logo.png" alt="Empresa Logo">
+                    <img class="logo linha_laranja" src="images/icons/linha.png">
+
+                    <div class="icon-text">
+                      <div class="icon">
+                        <a href="https://empresa.com.br/" target="_blank" class="has-text-black">
+                          &nbsp;<img src="images/icons/link.png"></img>
+                          &nbsp;empresa.com.br
+                        </a>
+                      </div>
+                      
+                      <div class="icon">
+                          <a href="tel:+554700000000" target="_blank" class="has-text-black">
+                              <img src="images/icons/phone.png"></img>
+                                47 0000-0000
+                          </a>
+                      </div>
+
+                      <div class="icon">
+                        <a href="https://maps.app.goo.gl/00000000000000000" target="_blank" class="has-text-black">
+                          <img src="images/icons/map.png"></img>
+                          &nbsp;BR 280 km 00, Cidade - SC, 00000-000
+                        </a>
+                      </div>
+                    </div>
+                </td>
+              </tr>
+          </tbody>
+      </table>
+
+    </body>
+</html>
